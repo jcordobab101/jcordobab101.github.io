@@ -1,7 +1,6 @@
 body {
   background-color: #d3e4cd;
   padding: 20px;
-  text-align: center;
   font-size: 25px;
   font-family: sans-serif;
 }
@@ -17,6 +16,60 @@ img {
 .main_header {
   background-color: #5eaaa8;
   border-radius: 25px;
-  margin: 20% 10% 10% 20%;
+  margin-bottom: 5%;
   padding: 20px 20px;
+  text-align: center;
+
+}
+
+.web-form {
+    margin: 20px;
+    border-radius: 20px;
+    background-color: #C2FFF9;
+    padding: 20px;
+}
+
+input {
+    background-color: #FFE652;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 16px;
+    font-family:  sans-serif;
+}
+
+input:hover{
+    background-color: #F7A440;
+    color: #ECFBFC;
+}
+section {
+    font-size: 25px;
+    font-family: sans-serif;
+    background-color: #5eaaa8;
+    border-radius: 50%;
+    padding: 10%;
+    margin: 10%;
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+
+
+}
+.ordered ol {
+    text-align: left;
+    font-size: 25px;
+    font-family: sans-serif;
+    border-style: solid;
+    padding: 2%;
+}
+
+.unordered ul {
+    text-align: left;
+    font-size: 25px;
+    font-family: sans-serif;
+    border-style: solid;
+    padding: 2%;
 }
