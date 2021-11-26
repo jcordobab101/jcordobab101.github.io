@@ -22,11 +22,20 @@ img {
 
 }
 
-.web-form {
+.webAccess {
     margin: 20px;
     border-radius: 20px;
     background-color: #C2FFF9;
     padding: 20px;
+}
+
+a {
+    margin: 10px;
+    border-radius: 20px;
+    background-color: #FFE652;
+    border-style: solid;
+    padding: 12px 20px;
+
 }
 
 input {
