@@ -35,20 +35,11 @@ a {
     background-color: #FFE652;
     border-style: solid;
     padding: 12px 20px;
+    color: #5C3C10;
 
 }
 
-input {
-    background-color: #FFE652;
-    margin: 10px;
-    padding: 10px;
-    border-radius: 30px;
-    text-align: center;
-    font-size: 16px;
-    font-family:  sans-serif;
-}
-
-input:hover{
+.webAccess :hover{
     background-color: #F7A440;
     color: #ECFBFC;
 }
