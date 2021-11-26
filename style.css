@@ -75,10 +75,10 @@ a {
     z-index: 5;
     background: #005E7C;
     border-radius: 50%;
-    left: 200px;
-    top: 300px;
-    width: 100px;
-    height: 100px;
+    left: 300px;
+    top: 600px;
+    width: 200px;
+    height: 200px;
 
 
 }
@@ -100,9 +100,9 @@ a {
     background: #1CA2BB;
     border-radius: 50%;
     left: 300px;
-    top: 400px;
-    width: 300px;
-    height: 300px;
+    top: 200px;
+    width: 200px;
+    height: 200px;
 
 
 }
@@ -112,9 +112,80 @@ a {
     z-index: 5;
     background: #658361;
     border-radius: 50%;
-    left: 600px;
-    top: 700px;
-    width: 500px;
-    height: 500px;
+    left: 500px;
+    top: 420px;
+    width: 200px;
+    height: 200px;
 
+}
+
+
+.fourthCircle {
+    position: absolute;
+    z-index: 5;
+    background: #4A3333;
+    border-radius: 50%;
+    left: 100px;
+    top: 420px;
+    width: 200px;
+    height: 200px;
+
+}
+
+
+.fifthCircle {
+    position: absolute;
+    z-index: 5;
+    background: #F2FECA;
+    border-radius: 50%;
+    left: 200px;
+    top: 500px;
+    width: 200px;
+    height: 200px;
+
+}
+
+
+
+
+.seventhCircle {
+    position: absolute;
+    z-index: 5;
+    background: #B05E27;
+    border-radius: 50%;
+    left: 200px;
+    top: 300px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.eightCircle {
+    position: absolute;
+    z-index: 5;
+    background: #889EAF;
+    border-radius: 50%;
+    left: 400px;
+    top: 500px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.ninethCircle {
+    position: absolute;
+    z-index: 5;
+    background: #E98580;
+    border-radius: 50%;
+    left: 400px;
+    top: 300px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.centric {
+    border-radius: 25%;
+    margin: 20px;
+    padding: 20px;
 }
