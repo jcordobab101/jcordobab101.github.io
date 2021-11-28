@@ -5,6 +5,7 @@ body {
   font-family: sans-serif;
 }
 
+
 img {
   height: 350px;
   width: 350px;
@@ -182,10 +183,4 @@ a {
     width: 200px;
     height: 200px;
 
-}
-
-.centric {
-    border-radius: 25%;
-    margin: 20px;
-    padding: 20px;
 }
