@@ -1,18 +1,18 @@
 # Joshua Cordoba Portfolio
-####Current Projects :
+#### Current Projects :
 1. MIT/xPro Website
 
-####Project descriptions
+#### Project descriptions
 
 Practice and display class exercises over the website.
 
-####Usage:
+#### Usage:
 Self study purpose.
 
-####Support:
+#### Support:
 Contact: josh-206@outlook.com
 
-####Roadmap:
+#### Roadmap:
 This website will become my resume site in the future.
 
-####No license required.
+#### No license required.
