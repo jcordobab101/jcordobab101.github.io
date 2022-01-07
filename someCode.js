@@ -7,7 +7,7 @@ sun.style.top = `${sunY}px`;
 
 //Mercury data
 const mercuryData = {
-  speed: 0.10,
+  speed: 0.09,
   theta: 0,
   radius: 85,
   el: document.querySelector('.p1')
@@ -43,9 +43,11 @@ const marsData= {
 }
 
 //Asteriod fields
-const asteroidFields = {};
-for (let i = 0; i < 200; i++) {
-  asteroidFields.el = document.querySelector('.p5')
+const asteroidFields1= {
+  speed: 10,
+  theta: 0,
+  radius: 200,
+  el: document.querySelector('.p5')
 }
 
 
@@ -95,6 +97,14 @@ const plutoData= {
 
 }
 
+//Asteriod fields
+const asteroidFields2= {
+  speed: 10,
+  theta: 0,
+  radius: 700,
+  el: document.querySelector('.p11')
+}
+
 
 
 
@@ -115,11 +125,12 @@ setInterval(() => {
   update(venusData)
   update(earthData)
   update(marsData)
-  update(asteroidFields)
+  update(asteroidFields1)
   update(jupiterData)
   update(saturnData)
   update(uranusData)
   update(neptuneData)
   update(plutoData)
+  update(asteroidFields2)
 
 }, 30);

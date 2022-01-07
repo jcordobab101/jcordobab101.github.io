@@ -36,7 +36,7 @@ body {
   height: 20px;
   position: absolute;
   background-color: #90AACB;
-  box-shadow: 3px 3px 20px #F0ECE3;
+  box-shadow: 3px 3px 20px #90AACB;
 }
 
 
@@ -46,7 +46,7 @@ body {
   height: 11px;
   position: absolute;
   background-color: #D57E7E;
-  box-shadow: 3px 3px 20px #F0ECE3;
+  box-shadow: 3px 3px 20px #D57E7E;
 }
 
 .p5{
@@ -55,7 +55,7 @@ body {
   height: 3px;
   position: absolute;
   background-color: #F0ECE3;
-  box-shadow: 1px 1px 10px #F0ECE3;
+  box-shadow: 3px 3px 20px #F0ECE3;
 }
 
 .p6{
@@ -64,7 +64,7 @@ body {
   height: 50px;
   position: absolute;
   background-color: #ECAC5D;
-  box-shadow: 1px 1px 10px #F0ECE3;
+  box-shadow: 3px 3px 20px #ECAC5D;
 }
 
 .p7{
@@ -73,7 +73,7 @@ body {
   height: 30px;
   position: absolute;
   background-color: #EED6C4;
-  box-shadow: 1px 1px 10px #F0ECE3;
+  box-shadow: 3px 3px 20px #EED6C4;;
 }
 
 .p8{
@@ -82,7 +82,7 @@ body {
   height: 20px;
   position: absolute;
   background-color: #94B3FD;
-  box-shadow: 1px 1px 10px #F0ECE3;
+  box-shadow: 3px 3px 20px #94B3FD;
 }
 
 .p9{
@@ -91,7 +91,7 @@ body {
   height: 16px;
   position: absolute;
   background-color: #94DAFF;
-  box-shadow: 1px 1px 10px #F0ECE3;
+  box-shadow: 3px 3px 20px #94DAFF;
 }
 
 .p10{
@@ -100,5 +100,14 @@ body {
   height: 5px;
   position: absolute;
   background-color: #F0ECE3;
-  box-shadow: 1px 1px 10px #F0ECE3;
+  box-shadow: 3px 3px 20px #F0ECE3;
+}
+
+.p11{
+  border-radius: 50%;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  background-color: #F0ECE3;
+  box-shadow: 3px 3px 20px #F0ECE3;
 }
