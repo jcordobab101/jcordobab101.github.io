@@ -7,7 +7,7 @@ sun.style.top = `${sunY}px`;
 
 //Mercury data
 const mercuryData = {
-  speed: 0.09,
+  speed: 0.15,
   theta: 0,
   radius: 85,
   el: document.querySelector('.p1')
@@ -16,7 +16,7 @@ const mercuryData = {
 
 //Mercury data
 const venusData = {
-  speed: 0.08,
+  speed: 0.10,
   theta: 0,
   radius: 100,
   el: document.querySelector('.p2')
@@ -25,7 +25,7 @@ const venusData = {
 
 //Earth data
 const earthData= {
-  speed: 0.07,
+  speed: 0.08,
   theta: 0,
   radius: 140,
   el: document.querySelector('.p3')
@@ -35,7 +35,7 @@ const earthData= {
 
 //Mars data
 const marsData= {
-  speed: 0.06,
+  speed: 0.05,
   theta: 0,
   radius: 170,
   el: document.querySelector('.p4')
@@ -53,7 +53,7 @@ const asteroidFields1= {
 
 //Jupiter data
 const jupiterData= {
-  speed: 0.05,
+  speed: 0.04,
   theta: 0,
   radius: 280,
   el: document.querySelector('.p6')
@@ -62,7 +62,7 @@ const jupiterData= {
 
 //Saturn data
 const saturnData= {
-  speed: 0.04,
+  speed: 0.03,
   theta: 0,
   radius: 370,
   el: document.querySelector('.p7')
@@ -71,7 +71,7 @@ const saturnData= {
 
 //Uranus data
 const uranusData= {
-  speed: 0.03,
+  speed: 0.02,
   theta: 0,
   radius: 440,
   el: document.querySelector('.p8')
@@ -80,7 +80,7 @@ const uranusData= {
 
 //Neptune data
 const neptuneData= {
-  speed: 0.02,
+  speed: 0.01,
   theta: 0,
   radius: 490,
   el: document.querySelector('.p9')
@@ -90,7 +90,7 @@ const neptuneData= {
 
 //Pluto data
 const plutoData= {
-  speed: 0.01,
+  speed: 0.009,
   theta: 0,
   radius: 550,
   el: document.querySelector('.p10')
