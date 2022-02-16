@@ -11272,5 +11272,6 @@
             @media screen and (max-width: 500px) {
                 .column-projects {
                     width: 100%;
+                    padding-top: 1%;
                 }
             }
