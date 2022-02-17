@@ -11318,3 +11318,7 @@
         .pac-list {
             color: white;
         }
+        
+        #welcome {
+            text-align: center;
+        }
